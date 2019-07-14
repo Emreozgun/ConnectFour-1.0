@@ -22,10 +22,11 @@
 ![Badges](https://img.shields.io/badge/open-source-blueviolet.svg)
 
 ***SOME PICTURE FROM GAME***
+
 ![c++_resim1](https://user-images.githubusercontent.com/30092986/61188982-9f05c380-a68f-11e9-953a-0704a5341122.png)
 
 ![computer_winner](https://user-images.githubusercontent.com/30092986/61189139-c3fb3600-a691-11e9-8b0f-97a7830c934e.png)
-***The computer won against me :)***
+> The computer won against me :)
 
 - HAVE WHITE SPACE
 - MAKE IT PRETTY
