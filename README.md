@@ -32,7 +32,7 @@
 
 ![computer_winner_gif](https://user-images.githubusercontent.com/30092986/61189238-53551900-a693-11e9-88de-9263d8ace039.gif)
 
-**ttystudio**
+**When I write the code**
 
 ![ttystudio GIF](https://media.giphy.com/media/KfwyWfTwMu1FG0XhO8/source.gif)
 
