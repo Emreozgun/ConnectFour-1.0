@@ -34,7 +34,7 @@
 
 **ttystudio**
 
-![ttystudio GIF](https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif)
+![ttystudio GIF](https://media.giphy.com/media/KfwyWfTwMu1FG0XhO8/source.gif)
 
 ---
 
