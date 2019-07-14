@@ -1,8 +1,4 @@
-![alt text](https://imge.to/i/FJ0N6)
-
-<!-- [![FVCproductions](https://imge.to/i/FJ0N6)](http://fvcproductions.com) -->
-
-***INSERT GRAPHIC HERE (include hyperlink in image)***
+![Screenshot from 2019-07-14 22-33-14](https://user-images.githubusercontent.com/30092986/61188516-eb99d080-a688-11e9-9ce9-2701bd153d05.png)
 
 # CONNECTFOUR GAME
 
