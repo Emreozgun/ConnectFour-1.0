@@ -1,4 +1,4 @@
-![Screenshot from 2019-07-14 22-33-14](https://user-images.githubusercontent.com/30092986/61188516-eb99d080-a688-11e9-9ce9-2701bd153d05.png)
+![cf4_c++_background](https://user-images.githubusercontent.com/30092986/61188720-06217900-a68c-11e9-9703-aaddb5032b41.png)
 
 # CONNECTFOUR GAME
 
