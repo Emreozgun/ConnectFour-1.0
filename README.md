@@ -25,7 +25,7 @@
 
 ***INSERT ANOTHER GRAPHIC HERE***
 
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
+[![INSERT YOUR GRAPHIC HERE](![c++_resim1](https://user-images.githubusercontent.com/30092986/61188982-9f05c380-a68f-11e9-953a-0704a5341122.png))]()
 
 - Most people will glance at your `README`, *maybe* star it, and leave
 - Ergo, people should understand instantly what your project is about based on your repo
