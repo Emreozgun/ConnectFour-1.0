@@ -28,18 +28,9 @@
 ![computer_winner](https://user-images.githubusercontent.com/30092986/61189139-c3fb3600-a691-11e9-8b0f-97a7830c934e.png)
 > The computer won against me :)
 
-- HAVE WHITE SPACE
-- MAKE IT PRETTY
-- GIFS ARE REALLY COOL
+**GIF WHILE PLAYING**
 
-> GIF Tools
-
-- Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
-- For terminal sessions, there's <a href="https://github.com/chjj/ttystudio" target="_blank">**ttystudio**</a> which also supports exporting `GIF`s.
-
-**Recordit**
-
-![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
+![computer_winner_gif](https://user-images.githubusercontent.com/30092986/61189238-53551900-a693-11e9-88de-9263d8ace039.gif)
 
 **ttystudio**
 
