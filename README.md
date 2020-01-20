@@ -41,12 +41,7 @@
 ## Table of Contents
 
 - [Installation](#installation)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Team](#team)
-- [FAQ](#faq)
 - [Support](#support)
-- [License](#license)
 
 ## Installation
 
