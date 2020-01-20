@@ -58,7 +58,7 @@
 
 Reach out to me at one of the following places!
 
-- Linkedin at <a href="https://www.linkedin.com/in/emre-ozgun" target="_blank">`fvcproductions.com`</a>
-- Stackoverflow at <a href="https://stackoverflow.com/users/12690037/emre-ozgun" target="_blank">`@fvcproductions`</a>
+- Linkedin at <a href="https://www.linkedin.com/in/emre-ozgun" target="_blank">`Emre_Ozgun_linkedin`</a>
+- Stackoverflow at <a href="https://stackoverflow.com/users/12690037/emre-ozgun" target="_blank">`Emre_Ozgun_twitter`</a>
 
 ---
